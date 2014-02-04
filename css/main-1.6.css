@@ -160,21 +160,10 @@ body {
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000)";
 }
 
-#introtext .head-sarah {
+#introtext .head-us {
     color: #690D0D;
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 5em;
-    line-height: 100%;
-}
-#introtext .amp {
-    position: relative;
-    top: 19px;
-    margin-left: -10px;
-    font-size: 0.7em;
-}
-#introtext .head-brad {
-    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 2em;
     line-height: 100%;
 }
 #introtext .date {
