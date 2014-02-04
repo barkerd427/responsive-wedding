@@ -160,17 +160,28 @@ body {
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000)";
 }
 
-#introtext .head-us {
+#introtext .head-sarah {
     color: #690D0D;
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 9em;
+    font-size: 5em;
+    line-height: 100%;
+}
+#introtext .amp {
+    position: relative;
+    top: 19px;
+    margin-left: -10px;
+    font-size: 0.7em;
+}
+#introtext .head-brad {
+    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 2em;
     line-height: 100%;
 }
 #introtext .date {
     color: #B29600;
     margin-top: 10px;
-    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 4em;
+    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 1em;
 }
 
 /* ==============
@@ -294,8 +305,9 @@ section {
 }
 
 section h1 {
-    font-family: 'VT323', cursive;
-    font-size: 1.6em;
+
+    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 2.6em;
 
 }
 section h2 {
@@ -351,8 +363,17 @@ section h2 {
         padding: 30px 0 30px 0;
     }
 
-    #introtext .head-us {
+    #introtext .head-sarah {
         font-size: 7em;
+    }
+    #introtext .amp {
+        position: relative;
+        top: 29px;
+        font-size: 0.9em;
+        margin-left: -20px;
+    }
+    #introtext .head-brad {
+        font-size: 3em;
     }
     #introtext .date {
         font-size: 1.1em;
@@ -453,9 +474,16 @@ section h2 {
     WIDE: Menu
    ============ */
 
-    #introtext .head-us {
+    #introtext .head-sarah {
         font-size: 9em;
    }
+    #introtext .amp {
+        top: 0;
+        font-size: 1em;
+    }
+    #introtext .head-brad {
+        font-size: 4em;
+    }
     #introtext .date {
         font-size: 2em;
         margin-top: 15px;
@@ -522,8 +550,15 @@ section h2 {
         margin: 0 auto;
     }
 
-    #introtext .head-us {
+    #introtext .head-sarah {
         font-size: 11em;
+    }
+    #introtext .amp {
+        top: 0;
+        font-size: 1.1em;
+    }
+    #introtext .head-brad {
+        font-size: 5em;
     }
     #introtext .date {
 
@@ -783,9 +818,10 @@ section h2 {
     border-radius: 8px;
 }
 
-img.thechapel  {
+img.theinn  {
 
     text-align: center;
+    margin-bottom: 50px;
 }
 
 div.bp h2 {
