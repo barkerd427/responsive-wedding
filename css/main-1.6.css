@@ -163,14 +163,14 @@ body {
 #introtext .head-us {
     color: #690D0D;
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 5em;
+    font-size: 9em;
     line-height: 100%;
 }
 #introtext .date {
     color: #B29600;
     margin-top: 10px;
     font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 1em;
+    font-size: 3em;
 }
 
 /* ==============
