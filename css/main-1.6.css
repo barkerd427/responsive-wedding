@@ -64,10 +64,10 @@ textarea {
 }
 
 .ico-btn {
-  text-align: center;
   display: inline-block;
+  text-align: center;
   height: 70px;
-  width: 130px;
+  width: 260px;
   background-color: #FFFFFF;
   background-size: auto 100px;
   moz-border-radius: 15px;
