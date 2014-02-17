@@ -65,12 +65,19 @@ textarea {
 
 .ico-btn {
   display: inline-block;
-  width: 260px;
   background-color: #FFFFFF;
   background-size: auto 100px;
   moz-border-radius: 15px;
   -webkit-border-radius: 15px;
   padding: 5px;
+}
+
+.amazon {
+    width: 250px;
+}
+
+.williams-sonoma {
+    width: 400px;
 }
 
 .ico-btn:hover {opacity: 0.6; }
