@@ -85,6 +85,10 @@ textarea {
     padding-left: 25px;
 }
 
+.hcb-icon {
+    visibility:hidden;
+}
+
 /* ===== Initializr Styles ==================================================
    Author: Bradley Greenwood
    ========================================================================== */
