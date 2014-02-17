@@ -81,6 +81,13 @@ textarea {
 
 .ico-btn:hover {opacity: 0.6; }
 
+#HCB_comment_box #hcb_form_content,
+#HCB_comment_box #hcb_form_email, 
+#HCB_comment_box #hcb_form_name, 
+#HCB_comment_box #hcb_form_website {
+  background-color:#FFFFFF;
+}
+
 /* ===== Initializr Styles ==================================================
    Author: Bradley Greenwood
    ========================================================================== */
