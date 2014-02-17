@@ -64,6 +64,8 @@ textarea {
 }
 
 .ico-btn {
+  height: 70px;
+  width: 130px;
   background-color: #FFFFFF;
   moz-border-radius: 15px;
   -webkit-border-radius: 15px;
