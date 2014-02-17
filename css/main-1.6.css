@@ -105,13 +105,6 @@ br.hcb-shadow-clear{clear:both;display:block}
 #HCB_comment_box blockquote{margin:0!important;padding:20px;background:url(img/speech-bubble.png) no-repeat}
 #HCB_comment_box div.comment{margin-bottom:5px;border-bottom:1px solid #eee}
 
-#HCB_comment_box #hcb_form_content,
-#HCB_comment_box #hcb_form_email, 
-#HCB_comment_box #hcb_form_name, 
-#HCB_comment_box #hcb_form_website {
-  background-color:#FFFFFF;
-}
-
 /* ===== Initializr Styles ==================================================
    Author: Bradley Greenwood
    ========================================================================== */
