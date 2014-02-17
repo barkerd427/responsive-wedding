@@ -69,6 +69,7 @@ textarea {
   moz-border-radius: 15px;
   -webkit-border-radius: 15px;
   border-width: 5px;
+  border-color: #FFFFFF;
 }
 
 .amazon {
