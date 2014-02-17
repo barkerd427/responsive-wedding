@@ -96,7 +96,7 @@ div.hcb-shadow-tl,div.hcb-shadow-bl{float:left}
 br.hcb-shadow-clear{clear:both;display:block}
 #HCB_comment_box *{margin:0;padding:0;border-width:0;outline:0}
 #HCB_comment_box textarea.commentbox{width:100%;display:block;border:0}
-#HCB_comment_box textarea,#HCB_comment_box input.text,#HCB_comment_box input.submit{background-color: white;border:0 none transparent;padding-left:5px}
+#HCB_comment_box textarea,#HCB_comment_box input.text,#HCB_comment_box input.submit{background-color:white;border:0 none transparent;padding-left:5px}
 #HCB_comment_box .hcb-wrapper-half{width:50%; float:left}
 #HCB_comment_box .hcb-wrapper{clear:left}
 #HCB_comment_box input.text{width:100%}
