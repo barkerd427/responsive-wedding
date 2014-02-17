@@ -67,6 +67,7 @@ textarea {
   height: 70px;
   width: 130px;
   background-color: #FFFFFF;
+  background-size: auto 70px;
   moz-border-radius: 15px;
   -webkit-border-radius: 15px;
   padding: 5px;
