@@ -64,6 +64,7 @@ textarea {
 }
 
 .ico-btn {
+  display: block;
   height: 70px;
   width: 130px;
   background-color: #FFFFFF;
