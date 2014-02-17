@@ -68,7 +68,7 @@ textarea {
   background-color: #FFFFFF;
   moz-border-radius: 15px;
   -webkit-border-radius: 15px;
-  padding: 5px;
+  border-width: 5px;
 }
 
 .amazon {
@@ -449,10 +449,6 @@ section h2 {
         height: 400px;
     }
 
-    .ico-btn {
-        display: block;
-    }
-
 
 
 /* ========================
@@ -516,10 +512,6 @@ section h2 {
         padding: 15px 2%;
         font-size: 90%;
     }
-
-    .ico-btn {
-        display: block;
-    }
 }
 @media only screen and (min-width: 900px) {
 
@@ -545,10 +537,6 @@ section h2 {
         line-height: 145%;
         padding: 0 20px;
     }  
-
-    .ico-btn {
-        display: block;
-    }
 }
 
 
