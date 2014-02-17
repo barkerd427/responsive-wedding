@@ -63,7 +63,7 @@ textarea {
     padding: 0.2em 0;
 }
 
-#ico-btn {
+.ico-btn {
   background-color: #33FF00;
   moz-border-radius: 15px;
   -webkit-border-radius: 15px;
@@ -71,7 +71,7 @@ textarea {
   padding: 5px;
 }
 
-#ico-btn:hover {opacity: 0.6; }
+.ico-btn:hover {opacity: 0.6; }
 
 
 /* ===== Initializr Styles ==================================================
