@@ -81,6 +81,14 @@ textarea {
 
 .ico-btn:hover {opacity: 0.6; }
 
+#HCB_comment_box {
+    padding-left: 25px;
+}
+
+.hcb-icon {
+    visibility:hidden;
+}
+
 /* ===== Initializr Styles ==================================================
    Author: Bradley Greenwood
    ========================================================================== */
